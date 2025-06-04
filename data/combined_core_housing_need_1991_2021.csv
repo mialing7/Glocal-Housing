@@ -1,0 +1,337 @@
+Geography,Households_Examined,Households_In_Core_Need,Year
+Canada,14355560.0,1451025.0,2021
+  Newfoundland and Labrador,219510.0,17530.0,2021
+    St. John's,88300.0,8160.0,2021
+  Prince Edward Island,62600.0,4370.0,2021
+  Nova Scotia,413310.0,41470.0,2021
+    Halifax,194025.0,23090.0,2021
+  New Brunswick,328695.0,20240.0,2021
+    Moncton,65840.0,4910.0,2021
+    Saint John,55000.0,3385.0,2021
+    Fredericton,44905.0,3235.0,2021
+  Quebec,3652980.0,218270.0,2021
+    Montréal,1788865.0,141755.0,2021
+    Québec CMA,381065.0,17870.0,2021
+    Saguenay,73810.0,1875.0,2021
+    Sherbrooke,102945.0,3965.0,2021
+    Trois-Rivières,75275.0,2475.0,2021
+    Drummondville,44955.0,1610.0,2021
+    Ottawa - Gatineau (Quebec part),148325.0,7765.0,2021
+  Ontario,5272360.0,639810.0,2021
+    Barrie,76405.0,8825.0,2021
+    Brantford,54560.0,5185.0,2021
+    Belleville,45270.0,5040.0,2021
+    Greater Sudbury,71965.0,5920.0,2021
+    Guelph,62530.0,6335.0,2021
+    Hamilton,298895.0,34555.0,2021
+    Kingston,71190.0,6785.0,2021
+    Kitchener - Cambridge - Waterloo,212950.0,19265.0,2021
+    London,214935.0,22080.0,2021
+    Oshawa,145745.0,16170.0,2021
+    Ottawa - Gatineau (Ontario/Quebec),589620.0,55250.0,2021
+    Ottawa - Gatineau (Ontario part),441295.0,47480.0,2021
+    Peterborough,51120.0,5930.0,2021
+    St. Catharines - Niagara,174690.0,18550.0,2021
+    Thunder Bay,52850.0,4425.0,2021
+    Toronto,2159300.0,348505.0,2021
+    Windsor,161685.0,12940.0,2021
+  Manitoba,483350.0,48815.0,2021
+    Winnipeg,321375.0,35755.0,2021
+  Saskatchewan,408295.0,41890.0,2021
+    Regina,97730.0,9585.0,2021
+    Saskatoon,121505.0,12075.0,2021
+  Alberta,1557725.0,154230.0,2021
+    Calgary,547240.0,53635.0,2021
+    Red Deer,39795.0,3750.0,2021
+    Lethbridge,47230.0,4235.0,2021
+    Edmonton,532725.0,56290.0,2021
+  British Columbia,1915750.0,257090.0,2021
+    Abbotsford - Mission,64990.0,6355.0,2021
+    Kelowna,84760.0,7205.0,2021
+    Vancouver,980820.0,166095.0,2021
+    Victoria,168595.0,21735.0,2021
+    Nanaimo,47705.0,5350.0,2021
+    Chilliwack,40035.0,3845.0,2021
+    Kamloops,44300.0,4255.0,2021
+  Yukon,16295.0,2135.0,2021
+  Northwest Territories,14885.0,1960.0,2021
+  Nunavut,9790.0,3220.0,2021
+End of worksheet,,,2021
+Canada,13333965.0,1693775.0,2016
+  Newfoundland and Labrador,213945.0,22490.0,2016
+    St. John's,82685.0,9480.0,2016
+  Prince Edward Island,56985.0,4870.0,2016
+  Nova Scotia,384835.0,49450.0,2016
+    Halifax,166155.0,22845.0,2016
+  New Brunswick,308575.0,27710.0,2016
+    Moncton,60065.0,5375.0,2016
+    Saint John,51455.0,4555.0,2016
+  Quebec,3411080.0,305585.0,2016
+    Montréal,1667280.0,182340.0,2016
+    Québec CMA,353970.0,25605.0,2016
+    Saguenay,71260.0,3535.0,2016
+    Sherbrooke,93210.0,6700.0,2016
+    Trois-Rivières,70870.0,4405.0,2016
+    Ottawa - Gatineau (Quebec part),136205.0,12055.0,2016
+  Ontario,4902400.0,748315.0,2016
+    Barrie,70020.0,10105.0,2016
+    Brantford,50900.0,7135.0,2016
+    Belleville,41590.0,6385.0,2016
+    Greater Sudbury,68505.0,8530.0,2016
+    Guelph,57245.0,6365.0,2016
+    Hamilton,283490.0,36805.0,2016
+    Kingston,65320.0,9265.0,2016
+    Kitchener - Cambridge - Waterloo,193560.0,22075.0,2016
+    London,197510.0,27390.0,2016
+    Oshawa,135210.0,17160.0,2016
+    Ottawa - Gatineau (Ontario/Quebec),516275.0,61350.0,2016
+    Ottawa - Gatineau (Ontario part),380070.0,49295.0,2016
+    Peterborough,47925.0,7225.0,2016
+    St. Catharines - Niagara,162980.0,22665.0,2016
+    Thunder Bay,50965.0,6200.0,2016
+    Toronto,2007935.0,384280.0,2016
+    Windsor,128160.0,14985.0,2016
+  Manitoba,449930.0,51130.0,2016
+    Winnipeg,295380.0,35755.0,2016
+  Saskatchewan,387195.0,51755.0,2016
+    Regina,91820.0,12255.0,2016
+    Saskatoon,110935.0,13140.0,2016
+  Alberta,1439580.0,164275.0,2016
+    Calgary,500365.0,56670.0,2016
+    Lethbridge,43985.0,4345.0,2016
+    Edmonton,482595.0,59250.0,2016
+  British Columbia,1740915.0,260220.0,2016
+    Abbotsford - Mission,59245.0,7545.0,2016
+    Kelowna,72890.0,7435.0,2016
+    Vancouver,889415.0,156805.0,2016
+    Victoria,152975.0,21750.0,2016
+  Yukon,14210.0,2160.0,2016
+  Northwest Territories,14620.0,2260.0,2016
+  Nunavut,9705.0,3545.0,2016
+End of worksheet,,,2016
+Canada,12462435.0,1552145.0,2011
+  Newfoundland and Labrador,201875.0,22945.0,2011
+    St. John's,75975.0,9055.0,2011
+  Prince Edward Island,53620.0,4945.0,2011
+  Nova Scotia,369760.0,46285.0,2011
+    Halifax,156600.0,20415.0,2011
+  New Brunswick,298955.0,29565.0,2011
+    Moncton,55845.0,5295.0,2011
+    Saint John,50350.0,5435.0,2011
+  Quebec,3224260.0,348485.0,2011
+    Montréal,1526830.0,203700.0,2011
+    Québec CMA,334090.0,28895.0,2011
+    Saguenay,66925.0,3975.0,2011
+    Sherbrooke,87520.0,8590.0,2011
+    Trois-Rivières,67490.0,5545.0,2011
+    Ottawa - Gatineau (Quebec part),125740.0,12045.0,2011
+  Ontario,4600055.0,616935.0,2011
+    Barrie,65440.0,9130.0,2011
+    Brantford,48600.0,6515.0,2011
+    Greater Sudbury,64980.0,6480.0,2011
+    Guelph,52370.0,5445.0,2011
+    Hamilton,270065.0,30645.0,2011
+    Kingston,62465.0,7910.0,2011
+    Kitchener - Cambridge - Waterloo,173930.0,17855.0,2011
+    London,184180.0,23710.0,2011
+    Oshawa,124160.0,13070.0,2011
+    Ottawa - Gatineau (Ontario/Quebec),477110.0,50905.0,2011
+    Ottawa - Gatineau (Ontario part),351370.0,38855.0,2011
+    Peterborough,45790.0,6055.0,2011
+    St. Catharines - Niagara,154170.0,17920.0,2011
+    Thunder Bay,50080.0,5265.0,2011
+    Toronto,1864775.0,315910.0,2011
+    Windsor,120370.0,13575.0,2011
+  Manitoba,423200.0,43410.0,2011
+    Winnipeg,278755.0,28785.0,2011
+  Saskatchewan,359375.0,47350.0,2011
+    Regina,82145.0,9860.0,2011
+    Saskatoon,99055.0,12295.0,2011
+  Alberta,1285165.0,137485.0,2011
+    Calgary,439640.0,44465.0,2011
+    Edmonton,425155.0,48225.0,2011
+  British Columbia,1610540.0,247280.0,2011
+    Abbotsford - Mission,55270.0,7710.0,2011
+    Kelowna,65970.0,8075.0,2011
+    Vancouver,815405.0,144720.0,2011
+    Victoria,142305.0,20870.0,2011
+  Yukon,12950.0,1885.0,2011
+  Northwest Territories,14150.0,2215.0,2011
+  Nunavut,8545.0,3355.0,2011
+End of worksheet,,,2011
+Canada,11766145.0,1494395.0,2006
+  Newfoundland and Labrador,191760.0,27305.0,2006
+    St. John's,68415.0,9255.0,2006
+  Prince Edward Island,50885.0,6435.0,2006
+  Nova Scotia,360760.0,43760.0,2006
+    Halifax,148790.0,20200.0,2006
+  New Brunswick,284205.0,29360.0,2006
+    Moncton,49870.0,5370.0,2006
+    Saint John,47795.0,4580.0,2006
+  Quebec,3061415.0,324590.0,2006
+    Montréal,1461620.0,184640.0,2006
+    Québec CMA,307915.0,28695.0,2006
+    Saguenay,62345.0,5090.0,2006
+    Sherbrooke,80100.0,7580.0,2006
+    Trois-Rivières,62085.0,7645.0,2006
+    Ottawa - Gatineau (Quebec part),112510.0,11585.0,2006
+  Ontario,4319145.0,627530.0,2006
+    Barrie,61340.0,8290.0,2006
+    Brantford,46100.0,5250.0,2006
+    Greater Sudbury,63165.0,6315.0,2006
+    Guelph,46985.0,5540.0,2006
+    Hamilton,255945.0,33090.0,2006
+    Kingston,59295.0,7545.0,2006
+    Kitchener,163835.0,16845.0,2006
+    London,177295.0,22625.0,2006
+    Oshawa,115195.0,13310.0,2006
+    Ottawa - Gatineau (Ontario/Quebec),432515.0,52350.0,2006
+    Ottawa - Gatineau (Ontario part),320005.0,40760.0,2006
+    Peterborough,43885.0,6160.0,2006
+    St. Catharines - Niagara,150430.0,18425.0,2006
+    Thunder Bay,49605.0,5415.0,2006
+    Toronto,1696310.0,322415.0,2006
+    Windsor,120185.0,15285.0,2006
+  Manitoba,414320.0,46915.0,2006
+    Winnipeg,272925.0,28375.0,2006
+  Saskatchewan,346650.0,40835.0,2006
+    Regina,77795.0,7435.0,2006
+    Saskatoon,91190.0,8515.0,2006
+  Alberta,1183975.0,119055.0,2006
+    Calgary,399900.0,36135.0,2006
+    Edmonton,389530.0,41220.0,2006
+  British Columbia,1520135.0,221475.0,2006
+    Abbotsford,52710.0,6795.0,2006
+    Kelowna,59855.0,6615.0,2006
+    Vancouver,757900.0,129145.0,2006
+    Victoria,136470.0,16900.0,2006
+  Yukon,11505.0,1880.0,2006
+  Northwest Territories,13690.0,2390.0,2006
+  Nunavut,7700.0,2870.0,2006
+End of worksheet,,,2006
+Canada,10805615.0,1485340.0,2001
+  Newfoundland and Labrador,181665.0,26605.0,2001
+    St. John's,62120.0,8375.0,2001
+  Prince Edward Island,48070.0,6200.0,2001
+  Nova Scotia,339670.0,51590.0,2001
+    Halifax,137475.0,22390.0,2001
+  New Brunswick,268825.0,29990.0,2001
+    Saint John,46345.0,5185.0,2001
+  Quebec,2812775.0,352350.0,2001
+    Montréal,1344735.0,188980.0,2001
+    Québec CMA,282200.0,34590.0,2001
+    Chicoutimi - Jonquière,58890.0,6615.0,2001
+    Sherbrooke,62760.0,7560.0,2001
+    Trois-Rivières,56360.0,7260.0,2001
+    Ottawa - Hull (Quebec part),99420.0,10910.0,2001
+  Ontario,3981545.0,599660.0,2001
+    Sudbury,59865.0,7410.0,2001
+    Hamilton,241035.0,32985.0,2001
+    Kingston,55200.0,8290.0,2001
+    Kitchener,147560.0,17155.0,2001
+    London,163620.0,21640.0,2001
+    Oshawa,100510.0,12025.0,2001
+    Ottawa - Hull (Ontario/Quebec),399325.0,54535.0,2001
+    Ottawa - Hull (Ontario part),299900.0,43625.0,2001
+    St. Catharines - Niagara,143595.0,18510.0,2001
+    Thunder Bay,47250.0,5640.0,2001
+    Toronto,1548530.0,295475.0,2001
+    Windsor,112700.0,14390.0,2001
+  Manitoba,389815.0,45390.0,2001
+    Winnipeg,259380.0,28085.0,2001
+  Saskatchewan,323065.0,37160.0,2001
+    Regina,73110.0,7420.0,2001
+    Saskatoon,84210.0,8985.0,2001
+  Alberta,1014180.0,106285.0,2001
+    Calgary,341505.0,38305.0,2001
+    Edmonton,338490.0,36730.0,2001
+  British Columbia,1416730.0,223675.0,2001
+    Abbotsford,47820.0,5505.0,2001
+    Vancouver,707155.0,122285.0,2001
+    Victoria,127170.0,17055.0,2001
+  Yukon,10220.0,1615.0,2001
+  Northwest Territories,11985.0,2085.0,2001
+  Nunavut,7070.0,2740.0,2001
+End of worksheet,,,2001
+Canada,10027840.0,1567180.0,1996
+  Newfoundland and Labrador,177815.0,26310.0,1996
+    St. John's,57570.0,8640.0,1996
+  Prince Edward Island,45130.0,6060.0,1996
+  Nova Scotia,323050.0,48105.0,1996
+    Halifax,121060.0,20100.0,1996
+  New Brunswick,255700.0,34735.0,1996
+    Saint John,44805.0,6405.0,1996
+  Quebec,2621625.0,426655.0,1996
+    Montréal,1251065.0,238275.0,1996
+    Québec CMA,260655.0,39970.0,1996
+    Chicoutimi - Jonquière,55630.0,7410.0,1996
+    Sherbrooke,56990.0,9240.0,1996
+    Trois-Rivières,53840.0,8765.0,1996
+    Ottawa - Hull (Quebec part),89060.0,12735.0,1996
+  Ontario,3680315.0,594250.0,1996
+    Sudbury,58880.0,8970.0,1996
+    Hamilton,224275.0,33590.0,1996
+    Kitchener,134415.0,18160.0,1996
+    London,146960.0,23075.0,1996
+    Oshawa,89590.0,11775.0,1996
+    Ottawa - Hull (Ontario/Quebec),366695.0,54925.0,1996
+    Ottawa - Hull (Ontario part),277635.0,42195.0,1996
+    St. Catharines - Niagara,136675.0,19760.0,1996
+    Thunder Bay,46975.0,6215.0,1996
+    Toronto,1400280.0,269670.0,1996
+    Windsor,100265.0,13940.0,1996
+  Manitoba,374620.0,55015.0,1996
+    Winnipeg,249160.0,38025.0,1996
+  Saskatchewan,314435.0,39685.0,1996
+    Regina,70925.0,8645.0,1996
+    Saskatoon,79405.0,10645.0,1996
+  Alberta,891170.0,100775.0,1996
+    Calgary,291210.0,32300.0,1996
+    Edmonton,301735.0,33285.0,1996
+  British Columbia,1315395.0,228970.0,1996
+    Vancouver,644770.0,122350.0,1996
+    Victoria,121875.0,19170.0,1996
+  Yukon,10235.0,1970.0,1996
+  Northwest Territories,18345.0,4665.0,1996
+End of worksheet,,,1996
+Canada,9371730.0,1269980.0,1991
+  Newfoundland and Labrador,169760.0,24630.0,1991
+    St. John's,53525.0,7600.0,1991
+  Prince Edward Island,41700.0,5585.0,1991
+  Nova Scotia,309645.0,42070.0,1991
+    Halifax,113975.0,16365.0,1991
+  New Brunswick,243275.0,39405.0,1991
+    Saint John,43805.0,6140.0,1991
+  Quebec,2479915.0,359985.0,1991
+    Montréal,1169235.0,200300.0,1991
+    Québec CMA,242950.0,32925.0,1991
+    Chicoutimi - Jonquière,53840.0,5700.0,1991
+    Sherbrooke,52605.0,7985.0,1991
+    Trois-Rivières,51400.0,7695.0,1991
+    Ottawa - Hull (Quebec part),80305.0,8840.0,1991
+  Ontario,3433900.0,408035.0,1991
+    Sudbury,55060.0,6500.0,1991
+    Hamilton,211420.0,22935.0,1991
+    Kitchener,123125.0,12710.0,1991
+    London,138920.0,16525.0,1991
+    Oshawa,79600.0,8580.0,1991
+    Ottawa - Hull (Ontario/Quebec),334475.0,37810.0,1991
+    Ottawa - Hull (Ontario part),254175.0,28965.0,1991
+    St. Catharines - Niagara,129820.0,13995.0,1991
+    Thunder Bay,45355.0,4945.0,1991
+    Toronto,1302000.0,176320.0,1991
+    Windsor,92450.0,11185.0,1991
+  Manitoba,364070.0,50525.0,1991
+    Winnipeg,241685.0,35390.0,1991
+  Saskatchewan,304365.0,45410.0,1991
+    Regina,68575.0,10135.0,1991
+    Saskatoon,74875.0,13275.0,1991
+  Alberta,828730.0,105780.0,1991
+    Calgary,264660.0,31965.0,1991
+    Edmonton,290445.0,36500.0,1991
+  British Columbia,1171375.0,182505.0,1991
+    Vancouver,580710.0,111070.0,1991
+    Victoria,113945.0,18070.0,1991
+  Yukon,9295.0,1515.0,1991
+  Northwest Territories,15705.0,4540.0,1991
+End of worksheet,,,1991
