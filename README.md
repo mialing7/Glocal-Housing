@@ -1,4 +1,3 @@
-# Glocal-Housing
 # Glocal Housing: Housing Affordability Dashboard
 *A GLOCAL CSJ Capstone Project | Summer 2025*
 
