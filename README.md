@@ -1,83 +1,132 @@
 # Glocal-Housing
-# 🏠 Housing Affordability & Household Dynamics in Canada  
+# Glocal Housing: Housing Affordability Dashboard
 *A GLOCAL CSJ Capstone Project | Summer 2025*
 
-## 📌 Project Overview
+---
 
-This project explores **housing affordability, mortgage trends, and household structure evolution in Canada**, with a specific focus on core housing need and lived experiences of vulnerable populations. The work draws exclusively from **Canada Mortgage and Housing Corporation (CMHC)** datasets and surveys, and aims to build an **interactive Power BI dashboard** to inform policy and public understanding.
+## Project Overview
 
+This project systematically explores **housing affordability across Canada**, highlighting trends, financial pressures, market conditions, and lived experiences. Built exclusively on data from the Canada Mortgage and Housing Corporation (CMHC), this interactive Power BI dashboard supports policy analysis, public understanding, and civic engagement.
 
-## 🎯 Project Scope
+---
 
-The dashboard and accompanying analysis will be structured into five key themes:
+## Project Objectives
 
-### 1. **Mortgage Rates & Delinquency Risk**
-- Explore provincial mortgage interest rate trends (short vs. long term)
-- Visualize delinquency rate trajectories from 2012 to 2024
-- Identify high-risk regions and timeframes for mortgage stress
+- Visualize and clarify Canada's current housing affordability landscape.
+- Highlight historical trends and evolving affordability pressures.
+- Analyze financial factors including mortgage rates and delinquency risks.
+- Assess contemporary rental market conditions.
+- Capture the lived experiences of Canadian residents from recent housing surveys.
 
-### 2. **Core Housing Need & Affordability Pressures**
-- Visualize historical CHN data (1991–2021) by province and tenure
-- Compare CHN rates among renters vs. owners, and low-income groups
-- Integrate shelter-cost-to-income (STIR) indicators where available
+---
 
-### 3. **Household Structure & Tenure Trends**
-- Analyze how family types (1-person, 2-person, etc.) have evolved since 1971
-- Compare renting vs. ownership trends across decades
-- Show age-based variation in household formation
+## Target Audience
 
-### 4. **2024 Rental Market Snapshot**
-- Use RMR 2024 data to show average rent levels and vacancy rates across CMAs
-- Compare housing market tightness across provinces and regions
+- Policymakers and urban planners  
+- Housing advocacy organizations  
+- Academic researchers and students  
+- Community groups and concerned citizens  
+- Civic technology and open-data communities  
 
-### 5. **Housing Satisfaction & Survey Insights**
-- Extract key insights from CHS and social housing surveys
-- Visualize satisfaction scores, affordability stress, and support-seeking behavior
-- Highlight regional or demographic disparities in lived experience
+---
 
+## Dashboard Structure
 
-## 📁 Data Sources
+The dashboard consists of five interconnected analytical pages:
 
-All datasets are sourced from the **Canada Mortgage and Housing Corporation (CMHC)**, including:
+### 1. Current Housing Affordability Crisis
+- Map: Core housing need (CHN) rates by province
+- Bar chart: Rent-to-income ratios by city
+- Line chart: Shelter-cost-to-income ratio (STIR) comparison
+- Heatmap: CHN by tenure (owners vs. renters)
+- Vacancy rates and affordability indicators
+- Summary KPI cards (rent, income, CHN%, vacancy rate)
 
-- **Mortgage Financing & Risk**
-  - `mortgage_rates_cleaned.xlsx` / `.csv`: Historical average mortgage interest rates
-  - `mortgage_delinquency_cleaned.xlsx` / `.csv`: Provincial and CMA-level delinquency rates (2012–2024)
+### 2. Historical Trends & Affordability Erosion
+- Line chart: CHN trends (1991–2021)
+- Area chart: Evolution of renter vs. owner households (1971–2021)
+- Line chart: Historical income vs. rent growth
+- Bar chart: Household type shifts and tenure changes
+- Timeline: Major housing policy milestones
 
-- **Core Housing Need & Household Composition**
-  - `combined_core_housing_need_1991_2021.csv`: Historical core housing need statistics
-  - `combined_households_type_tenure_1971_2021.csv`: Household size and tenure evolution
-  - `cleaned_household_data.csv`: Supplementary demographic breakdowns
+### 3. Financial Factors – Mortgage Stress
+- Line chart: Mortgage rates (1Y, 3Y, 5Y)
+- Line chart: Delinquency rates over time by province
+- Heatmap: Provincial delinquency distribution
+- Scatter plot: Mortgage rate vs. delinquency rate
+- Bar chart: Delinquency by CMA
+- KPI cards: Average mortgage rate, delinquency %, risk zones
+
+### 4. Rental Market Pressures – 2024 Snapshot
+- Bar chart: Rent by unit size and CMA
+- Line chart: Vacancy rate trends by province
+- Map: Rental prices across CMAs
+- Stacked bar chart: Unit mix by bedroom type
+- Scatter plot: Vacancy vs. rent pressure
+- Summary cards: lowest vacancy, highest rent, unit availability
+
+### 5. Lived Experiences – Survey-Based Insights
+- Bar chart: Satisfaction scores by province (CHS 2022)
+- Heatmap: Reasons for housing dissatisfaction
+- Funnel chart: Affordability stress → help-seeking → help received
+- Boxplot: Satisfaction by tenure or income group
+- Word cloud (optional): Thematic analysis of open-ended responses
+- Table: Social housing experience summary (2023 survey)
+
+---
+
+## Data Sources
+
+All datasets are sourced from the **Canada Mortgage and Housing Corporation (CMHC)**:
+
+- **Mortgage Data**
+  - `mortgage_rates_cleaned.csv`
+  - `mortgage_delinquency_cleaned.csv`
+
+- **Affordability & Household Composition**
+  - `combined_core_housing_need_1991_2021.csv`
+  - `combined_households_type_tenure_1971_2021.csv`
 
 - **Rental Market**
-  - `rmr-canada-2024-en.xlsx`: 2024 rental market report (average rent, vacancy rate)
+  - `rmr-canada-2024-en.xlsx`
 
-- **Housing Survey Insights**
-  - `cleaned_housing_survey (2).xlsx`: Processed 2022 Canadian Housing Survey results
-  - `social-affordable-housing-survey-rental-2023-en.xlsx`: 2023 satisfaction data for social and affordable housing tenants
+- **Survey Data**
+  - `cleaned_housing_survey (2).xlsx`
+  - `social-affordable-housing-survey-rental-2023-en.xlsx`
 
-> Data was pre-processed using Excel, Python (Pandas), and Power Query to ensure clean formatting and joinability across files.
+> Data was cleaned using Excel, Power Query, and Python (Pandas) to ensure consistency and joinability.
 
+---
 
+## Key Metrics
 
-## 🧰 Tools Used
+- **Core Housing Need (CHN)**: Households unable to access adequate, suitable, and affordable housing.
+- **STIR (Shelter-Cost-to-Income Ratio)**: The percentage of income spent on shelter; a STIR > 30% indicates housing stress.
+- **Vacancy Rate**: Proportion of available units not currently occupied.
+- **Delinquency Rate**: Percentage of mortgages that are overdue.
 
-- **Power BI**: For building the interactive dashboard and visualizing trends
-- **Excel / Power Query**: For early-stage data cleaning and integration
-- **Python (optional)**: For structured transformations and metrics calculation
+---
 
+## Tools and Methodology
 
-## 📣 Project Output (Coming Soon)
+- **Visualization**: Power BI (Desktop)  
+- **Data Preparation**: Excel, Power Query, Python  
+- **Documentation**: Dashboard annotations, KPI explanations, metric definitions  
 
-- 📈 **Power BI Dashboard with multi-tab structure by theme**
-- 📄 Summary Report explaining methodology, insights, and policy relevance
-- 📽️ **Dashboard explainer video**
-- 💬 **LinkedIn post and infographics for public engagement**
+---
 
+## Expected Outcomes
 
-## 🤝 Acknowledgments
+- Establish a coherent narrative on Canada’s housing affordability crisis.
+- Provide evidence to support data-driven policy and funding decisions.
+- Inform advocacy efforts through public and stakeholder engagement.
+- Contribute to open-source civic data storytelling at GLOCAL.
 
-This project is conducted under the **GLOCAL Foundation of Canada** as part of the **Canada Summer Jobs (CSJ)** program, with mentorship and support from housing policy experts, data specialists, and the broader Glocal research team.
+---
+
+## Acknowledgments
+
+This project was developed under the **GLOCAL Foundation of Canada** as part of the **Canada Summer Jobs (CSJ)** program, with support from mentors, housing policy researchers, and the broader GLOCAL research community.
 
 
 ## 📬 Contact
